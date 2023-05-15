@@ -313,3 +313,10 @@ footer {
   height: 25px;
   background-color: #00E0FF;
 }
+
+a {
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  color: #00E0FF;
+}
